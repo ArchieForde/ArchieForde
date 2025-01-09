@@ -12,7 +12,7 @@ As a second-year Computer Science student specializing in software engineering, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|         Conducting a Security Audit           |  <a href="">Security Audit</a> |
+|         Conducting a Security Audit           |  <a href="https://github.com/ArchieForde/Google-Cybersecurity-Portfolio/tree/d921d0ed2e56f3c7ea96e94ed196981f439a1383/1.%20Conducting-A-Security-Audit">Security Audit</a> |
 |                                               |                            |
 |        | |
 |    | |
