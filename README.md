@@ -12,7 +12,7 @@ As a second-year Computer Science student specializing in software engineering, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|      | |
+|         Conducting a Security Audit          | | 
 |  | |
 |        | |
 |    | |
