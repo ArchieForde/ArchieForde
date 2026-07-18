@@ -1,41 +1,53 @@
 # Hello, I'm Archie Forde
 <a href="https://www.linkedin.com/in/archie-forde-234097265/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Second year Computer Science student with a profound interest in Cybersecurity and a dedication to furthering my knowledge in this field.
+As a CS graduate (BSc Computer Science with Software Engineering). I am building towards a career at the intersection of AI, quantitative finance, and quantum computing. Starting an MSc in Artificial Intelligence with a Quantum Computing specialisation at Maastricht University in
+February 2027.
 
-## Objective
+## What I'm currently working on
 
-As a second-year Computer Science student specializing in software engineering, I am passionate about pursuing a career in Cybersecurity and Artifical Intelligence . My academic background, coupled with hands-on experience in coding, networking, and engineering concepts, has prepared me to explore roles such as SOC Analyst (Tier 1), Security Analyst or Junior Penetration Tester. I am eager to leverage my technical skills and problem-solving abilities to identify new technologies and improving current technolgies to improve my skills in this constantly evolving field.
+Applying machine learning and quantitative methods to financial problems by building tools that combine LLMs, retrieval-augmented generation, and
+financial data APIs to analyse company reports and generate investment summaries.
+
+## My Background
+
+- BSc Computer Science (Software Engineering), University of Hull. Awarded 2:1
+- Currently: IBM AI Engineer Professional Certificate
+- Currently: CFI FinTech Industry Professional (FTIP) Certification
+- Incoming: MSc Artificial Intelligence, Maastricht University (Feb 2027 intake)
 
 ## Skills
 
+**Languages:** Python, C++, C#, SQL
+**AI/ML:** machine learning fundamentals, RAG, vector databases, LLM integration (OpenAI API)
+**Finance:** financial data APIs, quantitative methods (in progress via FTIP and self-study, Columbia Financial Engineering, Shreve's Stochastic Calculus for Finance)
+**Other:** distributed systems software engineering design principles
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|                   |   |
-|       |                            |
-|        | |
-|    | |
-|                | |
-|  | |
+## Certifications
+  <div>
+    <img src="https://img.shields.io/badge/Google%20Professional%20Cybersecurity-Professional%20Certificate-4285F4?&style=for-the-badge&logo=coursera&logoColor=white" />
+  </div>
 
-## Tools
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| AI Financial Research Assistant | Upload annual reports, ask questions, generate investment summaries | Python, OpenAI API, RAG, vector DB, financial APIs |
 
 ### Programming Languages
   <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"" />
     <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=csharp&logoColor=white"" />
     <img src="https://img.shields.io/badge/-C%2B%2B-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white" />
   </div>
 
+## Currently exploring
 
-## Certifications
-  <div>
-    <img src="https://img.shields.io/badge/Google%20Professional%20Cybersecurity-Professional%20Certificate-4285F4?&style=for-the-badge&logo=coursera&logoColor=white" />
+Quantitative development, AI applications in financial services, and how quantum
+computing will apply to portfolio optimisation and risk modelling over the next decade.
 
-  </div>
 
-## Projects
+
+
+
+
