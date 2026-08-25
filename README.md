@@ -2,60 +2,55 @@
  
 <a href="https://www.linkedin.com/in/archie-forde-234097265/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
-CS graduate (BSc Computer Science with Software Engineering) with a focused interest in
-cyber security and risk management. I learn by building, such as setting up my own lab
-environments, writing tools from scratch, and working through hands-on labs rather
-than just studying the theory.
+CS graduate (BSc Computer Science with Software Engineering) moving into aerospace, 
+starting an MSc in Satellite Engineering this autumn. I'm aiming at spacecraft
+mechanisms and systems engineering, and I learn the same way I always have: by
+building things. Such as CAD models, lab environments, and tools from scratch rather than
+just studying the theory.
  
 ## What I'm currently working on
  
-Actively revising for CompTIA Security+ and working through TryHackMe's SOC Level 1
-learning path, alongside building out a log analysis / anomaly detection project on
-top of my home SIEM lab.
+Preparing for my MSc with self-directed maths and physics study (calculus, mechanics,
+linear algebra, differential equations), and building a portfolio project: a
+deployable solar panel/antenna hinge mechanism for a Mars-transit CubeSat, modelled
+in Onshape with a full AIAA-style technical report.
  
 ## My Background
  
 - BSc Computer Science (Software Engineering), University of Hull - 2:1
-- Google Cybersecurity Certificate
-- ArcX CREST-accredited Cyber Threat Intelligence Fundamentals (FTIA certified)
-- Currently: CompTIA Security+ (revising)
-- Currently: TryHackMe — SOC Level 1 path
+- Starting: MSc Aerospace Satellite Engineering, Northumbria University - Autumn 2026
+- Internship at The Open Group, applying NLP techniques to prototyping problems
   
 ## Skills
  
-**Languages:** Python, C++, C#, SQL
+**Languages:** C, C++, Python
 <br>
-**Security:** SIEM tools & log analysis, threat detection & incident response,
-vulnerability assessment, risk identification, network security & protocols,
-ISO 27001 & Cyber Essentials awareness
+**Aerospace toolkit:** CAD (Onshape), MATLAB, Simulink, technical report writing (LaTeX/Overleaf, AIAA style)
+<br>
+**Security (secondary background):** SIEM tools & log analysis, threat detection & incident response, vulnerability assessment, risk identification, network security & protocols
 <br>
 **Other:** distributed systems, secure software engineering design principles
  
-## Certifications
- 
-<div>
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity-Professional%20Certificate-4285F4?&style=for-the-badge&logo=coursera&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcX-CTI%20Fundamentals%20(FTIA)-1a1a2e?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B%20(In%20Progress)-c8102e?&style=for-the-badge&logo=comptia&logoColor=white" />
-</div>
-
 ## Projects
  
 | Project | Description | Stack |
 |---|---|---|
-| Home Security Lab | Virtualised SOC environment — generated and investigated real security events (auth failures, alerts) using an open-source SIEM | Wazuh, Kali Linux, Metasploitable 2 |
-| Python Port Scanner | Tool to scan a range of ports on a target system and identify open/closed services, exploring TCP/IP and vulnerability assessment fundamentals | Python, socket programming |
+| CubeSat Deployable Hinge Mechanism | Personal portfolio project — deployable solar panel/antenna hinge for a Mars-transit CubeSat, with integrated deployment-confirmation sensing and a full technical report | Onshape (CAD), LaTeX/Overleaf, AIAA citation style |
+| Rocket Performance Calculator | C programming Project - a calculator that takes in various inputs for a rockets weight and performs various calculations necessary for understanding its performance. Building upon the basic calculations to make it more robust and reinforce the C programming language | C, Mathematics, Physics |
+
  
 ### Programming Languages
  
 <div>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?&style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+ 
 </div>
 
-## Currently exploring
+## Where I'm headed
  
-Where the security field is heading longer-term. In particular, how AI is changing both attack
-and defence, and how post-quantum cryptography will reshape the field as quantum
-computing matures.
+Spacecraft mechanisms and systems engineering, with an eye on roles at companies
+like Honeybee Robotics and Motiv Space Systems, and longer-term ambitions toward
+founding a hardware company building components for space exploration. My CS and
+security background stays in the toolkit as a secondary asset.
