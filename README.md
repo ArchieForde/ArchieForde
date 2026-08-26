@@ -3,17 +3,15 @@
 <a href="https://www.linkedin.com/in/archie-forde-234097265/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
 CS graduate (BSc Computer Science with Software Engineering) moving into aerospace, 
-starting an MSc in Satellite Engineering this autumn. I'm aiming at spacecraft
-mechanisms and systems engineering, and I learn the same way I always have: by
-building things. Such as CAD models, lab environments, and tools from scratch rather than
-just studying the theory.
+starting an MSc in Aerospace Satellite Engineering in September of 2026. I'm aiming at spacecraft
+mechanisms and systems engineering.
  
 ## What I'm currently working on
  
 Preparing for my MSc with self-directed maths and physics study (calculus, mechanics,
 linear algebra, differential equations), and building a portfolio project: a
 deployable solar panel/antenna hinge mechanism for a Mars-transit CubeSat, modelled
-in Onshape with a full AIAA-style technical report.
+in Onshape with a full AIAA-style technical report. Alongside all that I am also brushing up on the C programming language.
  
 ## My Background
  
@@ -25,11 +23,11 @@ in Onshape with a full AIAA-style technical report.
  
 **Languages:** C, C++, Python
 <br>
+
 **Aerospace toolkit:** CAD (Onshape), MATLAB, Simulink, technical report writing (LaTeX/Overleaf, AIAA style)
 <br>
-**Security (secondary background):** SIEM tools & log analysis, threat detection & incident response, vulnerability assessment, risk identification, network security & protocols
-<br>
-**Other:** distributed systems, secure software engineering design principles
+
+**Other:** distributed systems, secure software engineering design principles, Cyber Security 
  
 ## Projects
  
